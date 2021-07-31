@@ -1,0 +1,53 @@
+{
+	"basics": {
+		"name": "Anurag Sharma",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82510045?v=4",
+		"email": "2020kuec2015@iiitkota.ac.in",
+		"phone": "+918571998487",
+		"website": "https://anurag-sharma-portfolio.web.app/",
+		"summary": "I am quick learner and hardworking student. I love to devote my time in learning new skills and gaining new knowledge.",
+		"location": {
+			"address": "V.P.O - Jatauli, Ward-no 10, Teh-Pataudi, Dist-Gurugram, State-Haryana",
+			"postalCode": "122504",
+			"city": "Pataudi",
+			"countryCode": "India",
+			"region": "Haryana"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "AnuragSharma122",
+				"url": "https://github.com/AnuragSharma122/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Anurag Sharma",
+				"url": "https://www.linkedin.com/in/anurag-sharma-77212b203/"
+			},
+			{
+				"network": "Instagram",
+				"username": "anuragmudgil101",
+				"url": "https://www.instagram.com/anuragmudgil101/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08 //Date",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+    "skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","Firebase","Unity Game Development", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "VolleyBall", "Badminton"]
+	}],
+	"references": []
+}
