@@ -6,7 +6,7 @@
 		"email": "2020kuec2015@iiitkota.ac.in",
 		"phone": "+918571998487",
 		"website": "https://anurag-sharma-portfolio.web.app/",
-		"summary": "I am quick learner and hardworking student. I love to devote my time in learning new skills and gaining new knowledge.",
+		"summary": "My name is Anurag Sharma and I am in 2nd year in IIIT Kota. I am in ECE branch",
 		"location": {
 			"address": "V.P.O - Jatauli, Ward-no 10, Teh-Pataudi, Dist-Gurugram, State-Haryana",
 			"postalCode": "122504",
@@ -43,11 +43,10 @@
 	}],
     "skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","Firebase","Unity Game Development", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++","Java", "Unity Game Development"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "VolleyBall", "Badminton"]
-	}],
-	"references": []
+		"keywords": ["Chess"]
+	}]
 }
