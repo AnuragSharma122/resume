@@ -8,7 +8,7 @@
 		"website": "https://anurag-sharma-portfolio.web.app/",
 		"summary": "My name is Anurag Sharma and I am in 2nd year in IIIT Kota. I am in ECE branch",
 		"location": {
-			"address": "V.P.O - Jatauli, Ward-no 10, Teh-Pataudi, Dist-Gurugram, State-Haryana",
+			"address": "V.P.O - Jatauli, Ward-no 10, Teh-Pataudi, Dist-Gurugram",
 			"postalCode": "122504",
 			"city": "Pataudi",
 			"countryCode": "India",
@@ -35,8 +35,7 @@
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2020-12-08 //Date",
+		"studyType": "Bachelor of Technology",
 		"courses": [
 			"Electronics and Communication Engineering"
 		]
@@ -47,6 +46,7 @@
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess"]
-	}]
+		"keywords": ["Chess","VolleyBall"]
+	}],
+	    "references": []
 }
